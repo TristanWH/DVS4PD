@@ -3,7 +3,7 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 
 ## Data set contribution
 - **PEDRo: an Event-based Dataset for Person Detection in Robotics**  <br>
-[CVPR](workshop) (CCF-A)  　IEEE  <br> 
+[CVPR] (workshop) (CCF-A)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/10208992)   　[DataSet](https://github.com/SSIGPRO/PEDRo-Event-Based-Dataset) <br>
 
 ## 2023
