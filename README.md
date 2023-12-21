@@ -15,36 +15,64 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 [PDF](https://ieeexplore.ieee.org/document/8946715)   　[DataSet](http://rpg.ifi.uzh.ch/e2vid) <br>
 
 ## 2023
-### Conference paper
+
 
 ## 2022
-### Conference paper
+
 
 
 ## 2021
-### Conference paper
+
 
 ## 2020
-### Conference paper
+
+
+- **Object Detection, Classification and Counting for Analysis of Visual Events**  <br>
+  [GCCE] 　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/9292058) <br>
+
+- **High Speed and High Dynamic Range Video with an Event Camera**  <br>
+  [PAMI] (JCR-1)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/8946715)   　[DataSet](http://rpg.ifi.uzh.ch/e2vid) <br>
+
+- **High Speed and High Dynamic Range Video with an Event Camera**  <br>
+  [PAMI] (JCR-1)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/8946715)   　[DataSet](http://rpg.ifi.uzh.ch/e2vid) <br>
+
 
 ## 2019
-### Conference paper
+- **Mixed Frame-/Event-Driven Fast Pedestrian Detection**  <br>
+  [ICRA] (CCF-B)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/8793924) <br>
+
+- **High Speed and High Dynamic Range Video with an Event Camera**  <br>
+  [PAMI] (JCR-1)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/8946715)   　[DataSet](http://rpg.ifi.uzh.ch/e2vid) <br>
+
+- **High Speed and High Dynamic Range Video with an Event Camera**  <br>
+  [PAMI] (JCR-1)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/8946715)   　[DataSet](http://rpg.ifi.uzh.ch/e2vid) <br>
+
+- **High Speed and High Dynamic Range Video with an Event Camera**  <br>
+  [PAMI] (JCR-1)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/8946715)   　[DataSet](http://rpg.ifi.uzh.ch/e2vid) <br>
+
 
 ## 2018
-### Conference paper
+
 
 ## 2017
-### Conference paper
+
 
 ## 2016
-### Conference paper
+
 
 ## 2015
-### Conference paper
+
 
 ## 2014
-### Conference paper
+
 
 ## 2013
-### Conference paper
+
 
