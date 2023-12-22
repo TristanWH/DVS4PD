@@ -27,7 +27,7 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 
 - **Spike-Event Object Detection for Neuromorphic Vision**  <br>
   [IEEE Access] (JCR-2)  　IEEE <br>
-[PDF](https://ieeexplore.ieee.org/document/10016699)   　[DataSet](https://github.com/fjcu-ee-islab/Spiking_Converted_YOLOv4) <br>
+[PDF](https://ieeexplore.ieee.org/document/10016699)   　[code](https://github.com/fjcu-ee-islab/Spiking_Converted_YOLOv4) <br>
 
 - **Feature Analysis and Classification Method of Road Targets Based on Two-Dimensional Point Cloud Data by Event Camera**  <br>
   [ICTIS]   　IEEE  <br> 
@@ -117,7 +117,7 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 
 - **Ground Moving Vehicle Detection and Movement Tracking Based on the Neuromorphic Vision Sensor**  <br>
   [IEEE Internet of Things Journal] (JCR-1)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9112163)   　[DataSet](https://pjreddie.com/media/files/VOCtrainval_11-May-2012.tar) <br>
+[PDF](https://ieeexplore.ieee.org/document/9112163)   　[code](https://pjreddie.com/media/files/VOCtrainval_11-May-2012.tar) <br>
 
 - **Application of Hierarchical Clustering for Object Tracking with a Dynamic Vision Sensor**  <br>
   [ICCS]  　Springer  <br> 
@@ -133,7 +133,7 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 
 - **Multi-Cue Event Information Fusion for Pedestrian Detection With Neuromorphic Vision Sensorsn**  <br>
   [Neurorobot] (JCR-2)  　MDPI  <br> 
-[PDF](https://ieeexplore.ieee.org/document/8793924) <br>   　[DataSet](https://github.com/colinshane/DVS-multi-cue-pedestrian-detection) <br>
+[PDF](https://ieeexplore.ieee.org/document/8793924) <br>   　[code](https://github.com/colinshane/DVS-multi-cue-pedestrian-detection) <br>
 
 
 ## 2018
