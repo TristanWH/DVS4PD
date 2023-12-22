@@ -68,7 +68,7 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 
 - **Semantic Segmentation and Depth Estimation with RGB and DVS Sensor Fusion for Multi-view Driving Perception**  <br>
   [ACPR]　Springer  <br> 
-[PDF](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_26)   　[DataSet](https://github.com/oskarnatan/RGBDVS-fusion) <br>
+[PDF](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_26)   　[code](https://github.com/oskarnatan/RGBDVS-fusion) <br>
 
 - **Event-Based Pedestrian Detection Using Dynamic Vision Sensors**  <br>
   [Electronics] (JCR-3) 　MDPI  <br> 
