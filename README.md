@@ -1,5 +1,5 @@
 # DVS4PD
-Here we collect papers for HSC4PD(DVS/Event-based Camera for Pedestrian Detection) from past 10 years.
+Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detection) from past 10 years.
 
 
 ## Data set contribution
