@@ -15,6 +15,10 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 [PDF](https://ieeexplore.ieee.org/document/8946715)   　[DataSet](http://rpg.ifi.uzh.ch/e2vid) <br>
 
 ## 2023
+- **Pedestrian detection with high-resolution event camera**  <br>
+  [PP-RAI] 　	arXiv  <br> 
+[PDF](https://arxiv.org/abs/2305.18008) <br>
+
 - **Spike-Event Object Detection for Neuromorphic Vision**  <br>
   [IEEE Access] (JCR-2)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/10016699) <br>
@@ -24,6 +28,15 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 [PDF](https://ieeexplore.ieee.org/document/10243764) <br>
 
 ## 2022
+- **Research on pedestrian detection based on neuromorphic vision sensor**  <br>
+  [SPIE] (JCR-2)　SPIE.DL  <br> 
+[PDF](https://doi.org/10.1117/12.2636383) <br>
+
+- **A Novel Visual Object Detection and Distance Estimation Method for HDR Scenes based on Event Camera**  <br>
+  [ICCC]　SPIE.DL  <br> 
+[PDF](https://ieeexplore.ieee.org/abstract/document/9674426) <br>
+
+
 
 
 ## 2021
@@ -41,7 +54,6 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 [PDF](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_26) <br>
 
 
-
 ## 2020
 - **Object Detection, Classification and Counting for Analysis of Visual Events**  <br>
   [GCCE] 　IEEE  <br> 
@@ -51,6 +63,9 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
   [IEEE Transactions on Information Forensics and Security] (JCR-1)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9195516)  <br>
 
+- **Structure-Aware Network for Lane Marker Extraction with Dynamic Vision Sensor**  <br>
+  [CS.CV] 　	arXiv  <br> 
+[PDF](https://arxiv.org/abs/2008.06204) <br>
 
 
 ## 2019
@@ -66,6 +81,9 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
   [ICCS]  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-22750-0_13) <br>
 
+- **EV-SegNet: Semantic Segmentation for Event-Based Cameras**  <br>
+[CVPR] (workshop) (CCF-A)  　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/9025483) <br>
 
 
 ## 2018
