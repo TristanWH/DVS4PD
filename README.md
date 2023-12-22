@@ -1,6 +1,7 @@
 # HSC4PD
 Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) from past 10 years.
 
+
 ## Data set contribution
 - **PEDRo: an Event-based Dataset for Person Detection in Robotics**  <br>
 [CVPR] (workshop) (CCF-A)  　IEEE  <br> 
@@ -53,8 +54,6 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 - **A Novel Visual Object Detection and Distance Estimation Method for HDR Scenes based on Event Camera**  <br>
   [ICCC]　SPIE.DL  <br> 
 [PDF](https://ieeexplore.ieee.org/abstract/document/9674426) <br>
-
-
 
 
 ## 2021
@@ -151,23 +150,8 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 [PDF](https://www.scielo.org.mx/scielo.php?pid=S1405-55462018000401077&script=sci_arttext) <br>
 
 
-
-## 2017
-
-
-## 2016
-
-
 ## 2015
 - **Localization of Pedestrian with Respect to Car Speed**  <br>
   [ICIC] (CCF-C)  　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-319-22186-1_19) <br>
-
-
-
-## 2014
-
-
-## 2013
-
 
