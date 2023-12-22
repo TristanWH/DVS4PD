@@ -36,6 +36,10 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
   [ICARM]　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9536146) <br>
 
+- **Semantic Segmentation and Depth Estimation with RGB and DVS Sensor Fusion for Multi-view Driving Perception**  <br>
+  [ACPR]　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-031-02375-0_26) <br>
+
 
 
 ## 2020
@@ -58,9 +62,21 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
   [IEEE Internet of Things Journal] (JCR-1)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9112163)   　[DataSet](https://pjreddie.com/media/files/VOCtrainval_11-May-2012.tar) <br>
 
+- **Application of Hierarchical Clustering for Object Tracking with a Dynamic Vision Sensor**  <br>
+  [ICCS]  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-22750-0_13) <br>
+
 
 
 ## 2018
+- **High-Speed Object Tracking with Dynamic Vision Sensor**  <br>
+  [CHREOC]  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-981-13-6553-9_18) <br>
+
+- **Continuous-Time Intensity Estimation Using Event Cameras**  <br>
+  [ACCV]  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_20) <br>
+
 
 
 ## 2017
@@ -70,6 +86,10 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 
 
 ## 2015
+- **Localization of Pedestrian with Respect to Car Speed**  <br>
+  [ICIC] (CCF-C)  　Springer  <br> 
+[PDF](https://link.springer.com/chapter/10.1007/978-3-319-22186-1_19) <br>
+
 
 
 ## 2014
