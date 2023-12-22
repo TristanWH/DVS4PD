@@ -26,8 +26,8 @@ Here we collect papers for HSC4PD(High-Speed Camera for Pedestrian Detection) fr
 [PDF](https://arxiv.org/abs/2305.18008) <br>
 
 - **Spike-Event Object Detection for Neuromorphic Vision**  <br>
-  [IEEE Access] (JCR-2)  　IEEE   　[DataSet](https://github.com/fjcu-ee-islab/Spiking_Converted_YOLOv4) <br>
-[PDF](https://ieeexplore.ieee.org/document/10016699) <br>
+  [IEEE Access] (JCR-2)  　IEEE <br>
+[PDF](https://ieeexplore.ieee.org/document/10016699)   　[DataSet](https://github.com/fjcu-ee-islab/Spiking_Converted_YOLOv4) <br>
 
 - **Feature Analysis and Classification Method of Road Targets Based on Two-Dimensional Point Cloud Data by Event Camera**  <br>
   [ICTIS]   　IEEE  <br> 
