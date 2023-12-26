@@ -97,7 +97,7 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
 [PDF](https://arxiv.org/abs/2008.06204) <br>
 
 - **Video to Events: Recycling Video Datasets for Event Cameras**  <br>
-  [CVPR] 　IEEE  <br> 
+  [CVPR] (CCF-A)　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9156296) <br>
 
 - **On-Device Event Filtering with Binary Neural Networks for Pedestrian Detection Using Neuromorphic Vision Sensors**  <br>
