@@ -101,7 +101,7 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
 [PDF](https://ieeexplore.ieee.org/document/9156296) <br>
 
 - **On-Device Event Filtering with Binary Neural Networks for Pedestrian Detection Using Neuromorphic Vision Sensors**  <br>
-  [IEEE International Conference on Image Processing] 　IEEE  <br> 
+  [IEEE ICIP] (CCF-C) 　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/abstract/document/9191148) <br>
 
 - **Near-Chip Dynamic Vision Filtering for Low-Bandwidth Pedestrian Detection**  <br>
@@ -142,7 +142,7 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
 [PDF](https://link.springer.com/chapter/10.1007/978-981-13-6553-9_18) <br>
 
 - **Continuous-Time Intensity Estimation Using Event Cameras**  <br>
-  [ACCV]  　Springer  <br> 
+  [ACCV] (CCF-C) 　Springer  <br> 
 [PDF](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_20) <br>
 
 - **Pedestrian Detection and Tracking Using a Dynamic Vision Sensor**  <br>
