@@ -83,10 +83,6 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
   [Electronics] (JCR-3) 　MDPI  <br> 
 [PDF](https://www.mdpi.com/2079-9292/10/8/888/html) <br>
 
-- **Event-Based Pedestrian Detection Using Dynamic Vision Sensors**  <br>
-  [Electronics] (JCR-3) 　MDPI  <br> 
-[PDF](https://www.mdpi.com/2079-9292/10/8/888/html) <br>
-
 
 ## 2020
 - **Object Detection, Classification and Counting for Analysis of Visual Events**  <br>
