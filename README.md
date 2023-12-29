@@ -85,9 +85,6 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
 
 
 ## 2020
-- **Object Detection, Classification and Counting for Analysis of Visual Events**  <br>
-  [GCCE] 　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9292058) <br>
 
 - **NeuroAED: Towards Efficient Abnormal Event Detection in Visual Surveillance With Neuromorphic Vision Sensor**  <br>
   [IEEE Transactions on Information Forensics and Security] (JCR-1)  　IEEE  <br> 
