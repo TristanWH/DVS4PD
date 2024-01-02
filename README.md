@@ -121,10 +121,6 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
 [CVPR] (workshop) (CCF-A)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9025483) <br>
 
-- **Mixed Frame-/Event-Driven Fast Pedestrian Detection**  <br>
-  [ICRA] (CCF-B)  　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/8793924) <br>
-
 - **Multi-Cue Event Information Fusion for Pedestrian Detection With Neuromorphic Vision Sensorsn**  <br>
   [Neurorobot] (JCR-2)  　MDPI  <br> 
 [PDF](https://ieeexplore.ieee.org/document/8793924)  　[code](https://github.com/colinshane/DVS-multi-cue-pedestrian-detection) <br>
