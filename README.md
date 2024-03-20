@@ -53,7 +53,9 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
   [cs.CV] 　	arXiv  <br> 
 [PDF](https://arxiv.org/abs/2212.07181) <br>
 
-
+- **Power-of- Two Quantized YOLO Network for Pedestrian Detection with Dynamic Vision Sensor**  <br>
+  [DSD - Euromicro] 　	IEEE  <br> 
+[PDF]([https://arxiv.org/abs/2212.07181](https://ieeexplore.ieee.org/document/10456798)) <br>
 
 ## 2022
 - **Research on pedestrian detection based on neuromorphic vision sensor**  <br>
