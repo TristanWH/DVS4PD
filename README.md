@@ -31,15 +31,14 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
   [CVPRW] (CCF-A)　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9025364) <br>
 
+- **Spike-Event Object Detection for Neuromorphic Vision**  <br>
+  [IEEE Access] (JCR-2)  　IEEE <br>
+[PDF](https://ieeexplore.ieee.org/document/10016699)   　[code](https://github.com/fjcu-ee-islab/Spiking_Converted_YOLOv4) <br>
 
 ## 2023
 - **Pedestrian detection with high-resolution event camera**  <br>
   [PP-RAI] 　	arXiv  <br> 
 [PDF](https://arxiv.org/abs/2305.18008) <br>
-
-- **Spike-Event Object Detection for Neuromorphic Vision**  <br>
-  [IEEE Access] (JCR-2)  　IEEE <br>
-[PDF](https://ieeexplore.ieee.org/document/10016699)   　[code](https://github.com/fjcu-ee-islab/Spiking_Converted_YOLOv4) <br>
 
 - **Feature Analysis and Classification Method of Road Targets Based on Two-Dimensional Point Cloud Data by Event Camera**  <br>
   [ICTIS]   　IEEE  <br> 
