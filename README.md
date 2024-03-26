@@ -27,10 +27,6 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
 [CVPR] (workshop) (CCF-A)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9523088) <br>
 
-- **Video to Events: Recycling Video Datasets for Event Cameras**  <br>
-  [CVPRW] (CCF-A)　IEEE  <br> 
-[PDF](https://ieeexplore.ieee.org/document/9156296) <br>
-
 - **Dhp19: Dynamic vision sensor 3d human pose dataset**  <br>
   [CVPRW] (CCF-A)　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9025364) <br>
