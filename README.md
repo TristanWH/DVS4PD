@@ -4,11 +4,11 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
 
 ## Data set contribution
 - **PEDRo: an Event-based Dataset for Person Detection in Robotics**  <br>
-[CVPR] (workshop) (CCF-A)  　IEEE  <br> 
+[CVPRW] (workshop) (CCF-A)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/10208992)   　[DataSet](https://github.com/SSIGPRO/PEDRo-Event-Based-Dataset) <br>
 
 - **A Large Scale Event-based Detection Dataset for Automotive**  <br>
-[CVPR] (workshop) (CCF-A)  　IEEE  <br> 
+[CVPRW] (workshop) (CCF-A)  　IEEE  <br> 
 [PDF](https://arxiv.org/abs/2001.08499)   　[DataSet](https://www.prophesee.ai/2020/01/24/prophesee-gen1-automotive-detection-dataset/) <br>
 
 - **High Speed and High Dynamic Range Video with an Event Camera**  <br>
@@ -28,8 +28,12 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
 [PDF](https://ieeexplore.ieee.org/document/9523088) <br>
 
 - **Video to Events: Recycling Video Datasets for Event Cameras**  <br>
-  [CVPR] (CCF-A)　IEEE  <br> 
+  [CVPRW] (CCF-A)　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9156296) <br>
+
+- **Dhp19: Dynamic vision sensor 3d human pose dataset**  <br>
+  [CVPRW] (CCF-A)　IEEE  <br> 
+[PDF](https://ieeexplore.ieee.org/document/9025364) <br>
 
 
 ## 2023
