@@ -91,10 +91,6 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
   [IEEE Transactions on Information Forensics and Security] (JCR-1)  　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/document/9195516)  <br>
 
-- **Structure-Aware Network for Lane Marker Extraction with Dynamic Vision Sensor**  <br>
-  [cs.CV] 　	arXiv  <br> 
-[PDF](https://arxiv.org/abs/2008.06204) <br>
-
 - **On-Device Event Filtering with Binary Neural Networks for Pedestrian Detection Using Neuromorphic Vision Sensors**  <br>
   [IEEE ICIP] (CCF-C) 　IEEE  <br> 
 [PDF](https://ieeexplore.ieee.org/abstract/document/9191148) <br>
